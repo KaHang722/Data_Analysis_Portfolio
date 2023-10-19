@@ -42,7 +42,7 @@ To use this database, you can follow these steps:
 1. Download the PostgreSQL DVD Rental sample database from [this link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) and load it into your PostgreSQL server.
 2. Execute SQL queries using a PostgreSQL client to explore the database.
 
-## Author
+## Contributors
 
 - **Ka Hang Chan**
 - Data Analyst | Proficient in SQL, Python, R, Power BI, Tableau, Excel
