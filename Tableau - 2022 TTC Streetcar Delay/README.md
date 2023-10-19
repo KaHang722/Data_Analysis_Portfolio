@@ -46,7 +46,7 @@ The Tableau project includes several key visualizations and insights:
 
 In conclusion, the analysis of the Toronto TTC Streetcar Delays Dataset for 2022 highlights significant challenges within the streetcar network, with over 17,000 delay incidents. Operations incidents were the most frequent, comprising 43.3% of all incidents. The top five affected lines were 501, 504, 505, 506, and 510. Additionally, the strong positive correlation between 'Gap Minutes' and 'Delay Minutes' emphasizes the importance of managing gap times for improved streetcar efficiency. These insights can guide efforts to enhance Toronto's streetcar services in the future.
 
-## Author
+## Contributors
 
 - **Ka Hang Chan**
 - Data Analyst | Proficient in SQL, Python, R, Power BI, Tableau, Excel
