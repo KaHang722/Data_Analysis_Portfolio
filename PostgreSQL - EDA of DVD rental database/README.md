@@ -20,7 +20,7 @@ This is a sample PostgreSQL database named "DVD Rental" that you can use for lea
 
 You can download and print the [Printable ER Diagram (PNG)](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png) for reference while practicing PostgreSQL.
 
-## Sample Queries
+## Queries
 
 Here are some sample SQL queries you can run on the database:
 
