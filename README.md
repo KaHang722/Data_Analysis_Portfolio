@@ -10,23 +10,23 @@ I am actively seeking opportunities to collaborate with dynamic organizations as
 
 ## Portfolio Projects
 
-### [Excel - Bike Sales Dashboard](https://github.com/KaHang722/Portfolio-Projects/tree/main/Excel%20-%20Bike%20Sales%20Dashboard)
+- #### [Excel - Bike Sales Dashboard](https://github.com/KaHang722/Portfolio-Projects/tree/main/Excel%20-%20Bike%20Sales%20Dashboard)
 
-### [PostgreSQL - EDA of DVD Rental Database](https://github.com/KaHang722/Portfolio-Projects/tree/main/PostgreSQL%20-%20EDA%20of%20DVD%20rental%20database)
+- #### [PostgreSQL - EDA of DVD Rental Database](https://github.com/KaHang722/Portfolio-Projects/tree/main/PostgreSQL%20-%20EDA%20of%20DVD%20rental%20database)
 
-### [PowerBI - Data Professional Survey Breakdown](https://github.com/KaHang722/Portfolio-Projects/tree/main/PowerBI%20-%20Data%20Professional%20Survey%20Breakdown)
+- #### [PowerBI - Data Professional Survey Breakdown](https://github.com/KaHang722/Portfolio-Projects/tree/main/PowerBI%20-%20Data%20Professional%20Survey%20Breakdown)
 
-### [Python - Customer Segmentation](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Customer%20Segmentation)
+- #### [Python - Customer Segmentation](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Customer%20Segmentation)
 
-### [Python - Health Analytics and Prediction](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Health%20Analytics%20and%20Prediction)
+- #### [Python - Health Analytics and Prediction](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Health%20Analytics%20and%20Prediction)
 
-### [Python - Prediction of Creditworthiness of Customers and Customer Loan Repayment](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Prediction%20of%20Creditworthiness%20of%20Customers%20and%20Customer%20Loan%20Repayment)
+- #### [Python - Prediction of Creditworthiness of Customers and Customer Loan Repayment](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Prediction%20of%20Creditworthiness%20of%20Customers%20and%20Customer%20Loan%20Repayment)
 
-### [Tableau - 2022 TTC Streetcar Delay](https://github.com/KaHang722/Portfolio-Projects/tree/main/Tableau%20-%202022%20TTC%20Streetcar%20Delay)
+- #### [Tableau - 2022 TTC Streetcar Delay](https://github.com/KaHang722/Portfolio-Projects/tree/main/Tableau%20-%202022%20TTC%20Streetcar%20Delay)
 
-### [Tableau - Google Fiber](https://github.com/KaHang722/Portfolio-Projects/tree/main/Tableau%20-%20Google%20Fiber)
+- #### [Tableau - Google Fiber](https://github.com/KaHang722/Portfolio-Projects/tree/main/Tableau%20-%20Google%20Fiber)
 
-### [Tableau - Minnesota Traffic Volume](https://github.com/KaHang722/Portfolio-Projects/tree/main/Tableau%20-%20Minnesota%20Traffic%20Volume)
+- #### [Tableau - Minnesota Traffic Volume](https://github.com/KaHang722/Portfolio-Projects/tree/main/Tableau%20-%20Minnesota%20Traffic%20Volume)
 
 ## Certificates
 
