@@ -8,6 +8,12 @@ My joy lies in unearthing valuable insights hidden within datasets, transforming
 
 I am actively seeking opportunities to collaborate with dynamic organizations as a Data Analyst or Business Analyst, where I can apply my skills and expertise to create a tangible impact. Let's connect and explore how we can leverage data to drive innovation and growth together.
 
+**Technical Skills:**<br>
+Data Analysis, Data Visualization, Data Mining, Data Modeling, Data Cleaning, Business Intelligence, Dashboard Building, Data Validation, Database Design, Data Transformation, Data Reporting, Python, R, SQL, PL/SQL, T-SQL, Spark
+
+**Tech/Tools:**<br>
+Jupyter Notebook, Google Colab, Tableau, R Studio, Zeppelin, SQL Server, MySQL, Oracle SQL Developer, PostgreSQL, Neo4j
+
 ## Portfolio Projects
 
 - #### [Excel - Bike Sales Dashboard](https://github.com/KaHang722/Portfolio-Projects/tree/main/Excel%20-%20Bike%20Sales%20Dashboard)
