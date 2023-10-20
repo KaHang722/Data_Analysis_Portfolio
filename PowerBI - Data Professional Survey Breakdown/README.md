@@ -1,7 +1,7 @@
 # Data Professional Survey Breakdown Dashboard
 
 ## Overview
-The Data Professional Survey Breakdown Dashboard is a guided Power BI project that involves the analysis and visualization of survey data collected from data professionals. This project is designed to help you develop your proficiency in utilizing Power BI's features and capabilities to transform raw data into meaningful visualizations and facilitate data-driven decision-making processes.
+The Data Professional Survey Breakdown Dashboard is a guided Power BI project guided by Alex The Analyst's tutorial on YouTube. It involves the analysis and visualization of survey data collected from data professionals. This project is designed to help you develop your proficiency in utilizing Power BI's features and capabilities to transform raw data into meaningful visualizations and facilitate data-driven decision-making processes.
 
 ## Key Features
 - Interactive Dashboards: This guided project includes interactive dashboards that allow you to explore and interact with the survey data.
