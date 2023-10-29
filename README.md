@@ -26,9 +26,9 @@ Jupyter Notebook, Google Colab, Tableau, R Studio, Zeppelin, SQL Server, MySQL, 
 
 - #### [Python - Health Analytics and Prediction](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Health%20Analytics%20and%20Prediction)
 
-- #### [Python - Prediction of Creditworthiness of Customers and Customer Loan Repayment](https://github.com/KaHang722/Data_Analysis_Portfolio/tree/main/Python%20-%20Simple%20Web%20Scraping%20and%20EDA%20of%20Toronto%20Weather%20Average)
+- #### [Python - Prediction of Creditworthiness of Customers and Customer Loan Repayment] (https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Prediction%20of%20Creditworthiness%20of%20Customers%20and%20Customer%20Loan%20Repayment)
 
-- #### [Python - Simple Web Scraping and EDA of Toronto Weather Average](https://github.com/KaHang722/Portfolio-Projects/tree/main/Python%20-%20Prediction%20of%20Creditworthiness%20of%20Customers%20and%20Customer%20Loan%20Repayment)
+- #### [Python - Simple Web Scraping and EDA of Toronto Weather Average] (https://github.com/KaHang722/Data_Analysis_Portfolio/tree/main/Python%20-%20Simple%20Web%20Scraping%20and%20EDA%20of%20Toronto%20Weather%20Average)
   
 - #### [Tableau - 2022 TTC Streetcar Delay](https://github.com/KaHang722/Portfolio-Projects/tree/main/Tableau%20-%202022%20TTC%20Streetcar%20Delay)
 
