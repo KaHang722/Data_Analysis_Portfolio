@@ -1,6 +1,6 @@
 # Simple Web Scraping and EDA of Toronto Weather Average
 
-This simple Jupyter Notebook project analyzes historical yearly weather averages for Toronto, Ontario, Canada. The data represents the average maximum and minimum temperatures as well as the annual average rainfall, taken from over 12 years of historical data. The data is obtained from the [World Weather Online](https://www.worldweatheronline.com) website.
+This simple Jupyter Notebook project analyzes historical yearly weather averages for Toronto, Ontario, Canada. The data represents the average maximum and minimum temperatures as well as the annual average rainfall, taken from over 12 years of historical data. The data is obtained from the World Weather Online website.
 
 ## Data Source
 
