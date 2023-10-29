@@ -1,0 +1,13 @@
+Month,Day(°c),Night(°c),Rain Days
+January,-1,-7,9
+February,-1,-7,9
+March,4,-2,7
+April,9,3,9
+May,16,9,8
+June,21,14,9
+July,25,18,9
+August,25,19,8
+September,22,15,6
+October,15,9,9
+November,8,3,6
+December,2,-2,9
